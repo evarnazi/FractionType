@@ -1,10 +1,3 @@
-/*
- * fracDr.cpp
- *
- *  Created on: Nov 10, 2019
- *      Author: liziv
- */
-// Test driver
 #include <iostream>
 #include <fstream>
 #include <string>
