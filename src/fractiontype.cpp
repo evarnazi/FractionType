@@ -1,8 +1,3 @@
-* fractiontype.cpp
- *
- *  Created on: Nov 13, 2019
- *      Author: liziv
- */
 #include<iostream>
 #include "fractiontype.h"
 using namespace std;
